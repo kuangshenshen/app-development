@@ -1,0 +1,28 @@
+page-c {
+    ion-content{
+        background-color: rgb(255, 219, 44)!important;
+        .cc{
+            width: 28%;
+            float: left;
+            margin: 60px 20px 0 40px;
+            h2{
+                font-size: 20px;
+                text-align: center;
+            }
+            p{
+                text-align: center;
+                font-size:10px;
+                color:rgb(178, 152, 27);
+            }
+        }
+        .c{
+            height: 50px;
+        }
+    }
+    ion-footer{
+        .footer{
+            font-size: 300%;
+            color:white;
+        }
+    }
+}
